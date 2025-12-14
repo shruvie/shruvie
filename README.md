@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shruti Verma</h1>
 <h3 align="center">A passionate frontend developer & UI/UX Designer from India</h3>
 
-- 🔭 I’m currently working on **Mental Wellness Ai project**
+- 🔭 I’m currently working on **StudySphere Ai project**
 
-- 🌱 I’m currently learning **DSA, Frontend Development**
+- 🌱 I’m currently learning **DSA, WEB Development and AI/ML**
 
-- 💬 Ask me about **Figma, and Python Libraries**
 
 - 📫 How to reach me **shrutiverma10a@gmail.com**
 
