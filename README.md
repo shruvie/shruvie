@@ -18,8 +18,6 @@
 - 🌱 Learning AI, LLMs, FastAPI & System Design
 - 💻 Building Full Stack + AI Projects
 - 🎨 UI/UX Designer
-- 🚀 Founder of **Vexalent Technologies**
-
 ---
 
 ## 🌐 Portfolio & Socials
