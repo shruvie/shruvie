@@ -1,6 +1,6 @@
 <!-- ────────────  SPACE SHOOTER BANNER  ──────────── -->
 <p align="center">
-  <img src="./assets/space-shooter.svg" alt="Space shooter animation" width="100%" />
+  <img src="/space-shooter.svg" alt="Space shooter animation" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shruti Verma</h1>
